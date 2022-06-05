@@ -1,6 +1,6 @@
 # Hello, tudo bem? Que tal aprender um pouco de flexbox? 🙃
 
-Esse é o repositório contém o código do interface de login do Instagram! Este é um projeto de estudo, e não é um projeto
+Esse repositório contém o código do interface de login do Instagram! Este é um projeto de estudo, e não é um projeto
 de produção.
 
 ### Os requisitos são:
